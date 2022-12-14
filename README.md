@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1C6B94&height=160&section=header&text=Leonardo%20Capristo🚀&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" />
 
-<img align="left" alt="Leo" height="250" style="border-radius:50px;" src="https://user-images.githubusercontent.com/107371070/207662306-f6ecdf98-6e9a-4f31-bc4a-65c0872a46a0.png">
+<img align="left" alt="fotoPerfil" height="250" style="border-radius:50px;" src="https://user-images.githubusercontent.com/107371070/207663161-f0e3b98e-75a0-4700-915b-1633be38ba67.png">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1C6B94&center=true&vCenter=true&width=500&lines=Desenvolvedor+Junior)](https://git.io/typing-svg)
 
