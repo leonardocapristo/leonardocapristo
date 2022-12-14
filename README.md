@@ -7,7 +7,7 @@
 
 
 <div>
--Meu nome é Leonardo e sou um amante e estudante de tecnologia.<br>
+-Oláaaa, tudo bem !? meu nome é Leonardo e sou um amante e estudante de tecnologia.<br>
 
 -Atualmente estou estagiando e concluindo a gradução em análise e desenvolvimento de sistemas na universidade Cruzeiro do Sul e também fazendo projetos e cursos pra aprimorar ainda mais meu conhecimento.<br>
 -Passei por uma transição de carreira onde decidi viver meu sonho de trabalhar com tecnologia e agora que estou aqui cada vez mais me identifico e me sinto realizado por tomar essa decisão !
