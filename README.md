@@ -42,13 +42,14 @@
     <img height="40" width="40" src="https://cdn.simpleicons.org/postgresql/1C6B94"/>
     <img height="40" width="40" src="https://cdn.simpleicons.org/mysql/1C6B94"/>    
   </p>
-  
+ 
+  <!--
   <h3 align="center">DevOps</h3>
   <p align="center">
     <img height="40" width="40" src="https://cdn.simpleicons.org/docker/1C6B94"/>
     <img height="40" width="40" src="https://cdn.simpleicons.org/amazonaws/1C6B94"/>        
   </p>
-  
+  -->
   <h3 align="center">Ferramentas</h3>
   <p align="center">
     <img height="40" width="40" src="https://cdn.simpleicons.org/trello/1C6B94"/>
