@@ -33,8 +33,8 @@
   
   <h3 align="center">Back End</h3>
   <p align="center">
-    <img height="40" width="40" src="https://cdn.simpleicons.org/springboot/1C6B94"/> 
-    <img height="40" width="40" src="https://cdn.simpleicons.org/openjdk/1C6B94"/>         
+    <img height="40" width="40" src="https://cdn.simpleicons.org/Node.js/1C6B94"/> 
+    <img height="40" width="40" src="https://cdn.simpleicons.org/Express/1C6B94"/>         
   </p>
   
   <h3 align="center">Banco de Dados</h3>
