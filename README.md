@@ -2,15 +2,16 @@
 
 <img align="left" alt="fotoPerfil" height="250" style="border-radius:50px;" src="https://sdk.bitmoji.com/render/panel/20054902-100859010712_11-s5-v1.png?transparent=1&palette=1&scale=2">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1C6B94&center=true&vCenter=true&width=500&lines=Analista+de+Dados+Junior)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1C6B94&center=true&vCenter=true&width=500&lines=Analista+de+Dados+Júnior)](https://git.io/typing-svg)
 
 
 
 <div>
--Oláaaa, tudo bem !? meu nome é Leonardo e sou um amante e estudante de tecnologia.<br>
-
--Atualmente estou estagiando e concluindo a gradução em análise e desenvolvimento de sistemas na universidade Cruzeiro do Sul e também fazendo projetos e cursos pra aprimorar ainda mais meu conhecimento.<br>
--Passei por uma transição de carreira onde decidi viver meu sonho de trabalhar com tecnologia e agora que estou aqui cada vez mais me identifico e me sinto realizado por tomar essa decisão !
+Olá! Meu nome é Leonardo e estou em busca da minha primeira oportunidade no mercado de Data Science.<br>
+<br>
+Recentemente, tenho me dedicado ao estudo de análise de dados, com foco em Python e pandas, para aprimorar minhas habilidades na manipulação e interpretação de dados.<br>
+<br>
+Este é o meu portfólio de projetos, onde você encontrará exemplos do meu trabalho e das habilidades que desenvolvi, fique a vontade para explorar !
 </div>
   
 ***************
