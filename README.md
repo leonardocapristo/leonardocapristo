@@ -26,24 +26,21 @@ Este é o meu portfólio de projetos, onde você encontrará exemplos do meu tra
 <h2 align="center">Linguagens e Ferramentas</h2>
   <h3 align="center">Front End</h3>
   <p align="center">
-    <img height="40" width="40" src="https://cdn.simpleicons.org/css3/1C6B94" /> 
-    <img height="40" width="40" src="https://cdn.simpleicons.org/html5/1C6B94"/> 
-    <img height="40" width="40" src="https://cdn.simpleicons.org/javascript/1C6B94"/> 
-    <img height="40" width="40" src="https://cdn.simpleicons.org/react/1C6B94"/>      
+    <img height="40" width="40" src="https://cdn.simpleicons.org/css3/" /> 
+    <img height="40" width="40" src="https://cdn.simpleicons.org/html5/"/>    
   </p>
   
-  <h3 align="center">Back End</h3>
+  <h3 align="center">Linguagens de Programação</h3>
   <p align="center">
-    <img height="40" width="40" src="https://cdn.simpleicons.org/Node.js/1C6B94"/> 
-    <img height="40" width="40" src="https://cdn.simpleicons.org/Express/1C6B94"/>
-    <img height="40" width="40" src="https://cdn.simpleicons.org/python/1C6B94"/>
-    <img height="40" width="40" src="https://cdn.simpleicons.org/django/1C6B94"/> 
+    <img height="40" width="40" src="https://cdn.simpleicons.org/python/4"/>
+    <img height="40" width="40" src="https://cdn.simpleicons.org/javascript/"/>
+    <img height="40" width="40" src="https://cdn.simpleicons.org/django/"/> 
   </p>
   
   <h3 align="center">Banco de Dados</h3>
   <p align="center">
-    <img height="40" width="40" src="https://cdn.simpleicons.org/postgresql/1C6B94"/>
-    <img height="40" width="40" src="https://cdn.simpleicons.org/mysql/1C6B94"/>    
+    <img height="40" width="40" src="https://cdn.simpleicons.org/postgresql/"/>
+    <img height="40" width="40" src="https://cdn.simpleicons.org/mysql/"/>    
   </p>
  
   <!--
@@ -55,12 +52,12 @@ Este é o meu portfólio de projetos, onde você encontrará exemplos do meu tra
   -->
   <h3 align="center">Ferramentas</h3>
   <p align="center">
-    <img height="40" width="40" src="https://cdn.simpleicons.org/trello/1C6B94"/>
-    <img height="40" width="40" src="https://cdn.simpleicons.org/jira/1C6B94"/>
-    <img height="40" width="40" src="https://cdn.simpleicons.org/visualstudio/1C6B94"/>    
-    <img height="40" width="40" src="https://cdn.simpleicons.org/figma/1C6B94"/> 
-    <img height="40" width="40" src="https://cdn.simpleicons.org/git/1C6B94"/>
-    <img height="40" width="40" src="https://cdn.simpleicons.org/eclipseide/1C6B94"/>
+    <img height="40" width="40" src="https://cdn.simpleicons.org/trello/"/>
+    <img height="40" width="40" src="https://cdn.simpleicons.org/jupyter/"/> 
+    <img height="40" width="40" src="https://cdn.simpleicons.org/googlecolab/"/> 
+    <img height="40" width="40" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png"/> 
+    <img height="40" width="40" src="https://cdn.simpleicons.org/git"/>
+    
      
   </p>
 
@@ -69,8 +66,8 @@ Este é o meu portfólio de projetos, onde você encontrará exemplos do meu tra
 
 <h2 align="center">Entre em contato:</h2>
 <p align="center">
-<a href = "mailto:leonardo.capristo@hotmail.com"><img src="https://img.shields.io/badge/Gmail-1C6B94?style=for-the-badge&logo=gmail&logoColor=white" target=" _blank"></a>
-<a href="https://www.linkedin.com/in/leonardocapristo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-1C6B94?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="mailto:leonardo.capristo@hotmail.com"><img src="https://cdn-icons-png.flaticon.com/512/2250/2250206.png" width="40" height="40"></a>
+<a href="https://www.linkedin.com/in/leonardocapristo/" target="_blank"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" width="40" height="40"></a>
 </p>
 
 
@@ -94,3 +91,4 @@ Este é o meu portfólio de projetos, onde você encontrará exemplos do meu tra
 </div>
 <!--https://github.com/LitoMore/simple-icons-cdn-->
 <!--https://simpleicons.org/-->
+<!-- https://cdn.simpleicons.org/NomeFerramenta/1C6B94 -->
