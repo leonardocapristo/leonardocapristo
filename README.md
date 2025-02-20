@@ -26,21 +26,19 @@ Este é o meu portfólio de projetos, onde você encontrará exemplos do meu tra
 <h2 align="center">Linguagens e Ferramentas</h2>
   <h3 align="center">Front End</h3>
   <p align="center">
-    <img height="40" width="40" src="https://cdn.simpleicons.org/css3/" /> 
-    <img height="40" width="40" src="https://cdn.simpleicons.org/html5/"/>    
+    <img height="40" width="40" src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-2.png" /> 
+    <img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"/>    
   </p>
   
   <h3 align="center">Linguagens de Programação</h3>
   <p align="center">
     <img height="40" width="40" src="https://cdn.simpleicons.org/python/4"/>
-    <img height="40" width="40" src="https://cdn.simpleicons.org/javascript/"/>
-    <img height="40" width="40" src="https://cdn.simpleicons.org/django/"/> 
+    <img height="40" width="40" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png"/>
   </p>
   
   <h3 align="center">Banco de Dados</h3>
   <p align="center">
-    <img height="40" width="40" src="https://cdn.simpleicons.org/postgresql/"/>
-    <img height="40" width="40" src="https://cdn.simpleicons.org/mysql/"/>    
+    <img height="40" width="40" src="https://www.pngplay.com/wp-content/uploads/7/Mysql-Logo-PNG-Photos.png"/> 
   </p>
  
   <!--
@@ -52,9 +50,7 @@ Este é o meu portfólio de projetos, onde você encontrará exemplos do meu tra
   -->
   <h3 align="center">Ferramentas</h3>
   <p align="center">
-    <img height="40" width="40" src="https://cdn.simpleicons.org/trello/"/>
-    <img height="40" width="40" src="https://cdn.simpleicons.org/jupyter/"/> 
-    <img height="40" width="40" src="https://cdn.simpleicons.org/googlecolab/"/> 
+    <img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg"/> 
     <img height="40" width="40" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png"/> 
     <img height="40" width="40" src="https://cdn.simpleicons.org/git"/>
     
