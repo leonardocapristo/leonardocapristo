@@ -6,6 +6,7 @@
 <div>
 Olá seja bem-vindo(a) ao meu portfólio no GitHub !<br>
 <br>
+</div>
 
   <!--
 <div>
