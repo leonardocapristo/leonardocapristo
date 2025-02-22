@@ -20,6 +20,7 @@ Este é o meu portfólio de projetos, onde você encontrará exemplos do meu tra
 
 <div align="center">
   <a href="https://github.com/leonardocapristo">
+    <br>
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=leonardocapristo&show_icons=true&theme=cobalt"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardocapristo&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
