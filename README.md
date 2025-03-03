@@ -6,6 +6,13 @@
 <div>
 Olá seja bem-vindo(a) ao meu portfólio no GitHub !<br>
 <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
 </div>
 
   <!--
